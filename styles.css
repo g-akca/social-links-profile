@@ -16,3 +16,11 @@ body {
     justify-content: center;
     align-items: center;
 }
+
+#card-container {
+    background-color: var(--grey-color2);
+    border-radius: 10px;
+    color: var(--white-color);
+    text-align: center;
+    padding: 40px;
+}
