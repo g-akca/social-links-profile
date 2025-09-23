@@ -9,4 +9,10 @@
 body {
     font-size: 14px;
     font-family: 'Inter', sans-serif;
+    background-color: var(--grey-color3);
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
