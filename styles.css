@@ -24,3 +24,8 @@ body {
     text-align: center;
     padding: 40px;
 }
+
+#avatar {
+    width: 100px;
+    border-radius: 50%;
+}
