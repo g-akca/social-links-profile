@@ -1,0 +1,12 @@
+:root {
+    --green-color: hsl(75, 94%, 57%);
+    --white-color: hsl(0, 0%, 100%);
+    --grey-color1: hsl(0, 0%, 20%);
+    --grey-color2: hsl(0, 0%, 12%);
+    --grey-color3: hsl(0, 0%, 8%);
+}
+
+body {
+    font-size: 14px;
+    font-family: 'Figtree', sans-serif;
+}
