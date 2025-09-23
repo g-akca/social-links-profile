@@ -29,3 +29,21 @@ body {
     width: 100px;
     border-radius: 50%;
 }
+
+#name {
+    font-size: 2em;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+#location {
+    color: var(--green-color);
+    font-weight: 600;
+    font-size: 1.1em;
+    margin-top: 0;
+}
+
+#description {
+    margin: 35px 0 25px;
+    font-weight: 400;
+}
