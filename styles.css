@@ -58,4 +58,11 @@ body {
     width: 340px;
     font-weight: 600;
     font-size: 1.1em;
+    text-decoration: none;
+    color: inherit;
+}
+
+.link:hover {
+    background-color: var(--green-color);
+    color: var(--grey-color2);
 }
